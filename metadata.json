@@ -1,0 +1,6 @@
+{
+  "name": "ETEC Atende - Sistema de Atendimento ao Aluno",
+  "description": "Sistema oficial de atendimento ao estudante e secretaria acadêmica para ETECs do Centro Paula Souza. Emissão de documentos, requerimentos digitais, fila virtual de senhas e assistente inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
